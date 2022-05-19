@@ -17,7 +17,7 @@ status-website:
   cname: status.yago.cloud
   favicon: https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.png
   faviconSvg: https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg
   name: Yago Status Page
   navbar:
     - title: Yago
