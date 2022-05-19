@@ -1,4 +1,4 @@
-# [![Upptime](https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-status.svg)](https://yago.cloud)
+# [![Upptime](https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-readme.svg)](https://yago.cloud)
 
 [![Uptime CI](https://github.com/bitforge/yago_status_page/workflows/Uptime%20CI/badge.svg)](https://github.com/bitforge/yago_status_page/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/bitforge/yago_status_page/workflows/Response%20Time%20CI/badge.svg)](https://github.com/bitforge/yago_status_page/actions?query=workflow%3A%22Response+Time+CI%22)
