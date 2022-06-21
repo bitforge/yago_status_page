@@ -4,19 +4,19 @@
     "url": "https://yago.cloud",
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-page",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 762,
-    "timeDay": 717,
-    "timeWeek": 759,
-    "timeMonth": 776,
-    "timeYear": 762,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 760,
+    "timeDay": 709,
+    "timeWeek": 751,
+    "timeMonth": 773,
+    "timeYear": 760,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 15
     }
   },
   {
@@ -25,19 +25,17 @@
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-app",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 631,
     "timeDay": 275,
     "timeWeek": 500,
     "timeMonth": 623,
     "timeYear": 631,
-    "dailyMinutesDown": {
-      "2022-06-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yago API",
