@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-page",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 772,
-    "timeDay": 1125,
-    "timeWeek": 781,
-    "timeMonth": 796,
-    "timeYear": 772,
+    "uptimeYear": "99.99%",
+    "time": 770,
+    "timeDay": 594,
+    "timeWeek": 796,
+    "timeMonth": 790,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2022-06-21": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 98,
-    "timeWeek": 373,
-    "timeMonth": 353,
-    "timeYear": 472,
+    "time": 468,
+    "timeDay": 161,
+    "timeWeek": 333,
+    "timeMonth": 347,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 913,
-    "timeWeek": 514,
-    "timeMonth": 475,
-    "timeYear": 487,
+    "time": 486,
+    "timeDay": 360,
+    "timeWeek": 516,
+    "timeMonth": 471,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   }
 ]
