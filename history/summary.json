@@ -5,21 +5,17 @@
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-page",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 765,
-    "timeDay": 891,
-    "timeWeek": 783,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 764,
+    "timeDay": 738,
+    "timeWeek": 813,
     "timeMonth": 841,
-    "timeYear": 765,
-    "dailyMinutesDown": {
-      "2022-12-17": 21,
-      "2022-09-04": 71,
-      "2022-06-21": 15
-    }
+    "timeYear": 764,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yago App",
@@ -27,19 +23,17 @@
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-app",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 404,
-    "timeDay": 432,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 403,
+    "timeDay": 31,
     "timeWeek": 423,
     "timeMonth": 339,
-    "timeYear": 404,
-    "dailyMinutesDown": {
-      "2022-12-17": 20
-    }
+    "timeYear": 403,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Yago API",
@@ -47,19 +41,16 @@
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-api",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 507,
-    "timeDay": 368,
-    "timeWeek": 562,
+    "timeDay": 487,
+    "timeWeek": 581,
     "timeMonth": 541,
     "timeYear": 507,
-    "dailyMinutesDown": {
-      "2022-12-17": 20,
-      "2022-09-04": 62
-    }
+    "dailyMinutesDown": {}
   }
 ]
