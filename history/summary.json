@@ -4,19 +4,19 @@
     "url": "https://yago.cloud",
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 780,
-    "timeDay": 716,
-    "timeWeek": 902,
-    "timeMonth": 909,
+    "timeDay": 734,
+    "timeWeek": 883,
+    "timeMonth": 904,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2023-02-07": 0
+      "2023-02-07": 6
     }
   },
   {
