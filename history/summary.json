@@ -4,9 +4,9 @@
     "url": "https://yago.cloud",
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 902,
     "timeMonth": 909,
     "timeYear": 780,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-07": 0
+    }
   },
   {
     "name": "Yago App",
