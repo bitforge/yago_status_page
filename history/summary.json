@@ -6,17 +6,17 @@
     "slug": "yago-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 513,
-    "timeWeek": 622,
-    "timeMonth": 991,
-    "timeYear": 808,
+    "time": 800,
+    "timeDay": 511,
+    "timeWeek": 608,
+    "timeMonth": 977,
+    "timeYear": 807,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 6
     }
   },
   {
