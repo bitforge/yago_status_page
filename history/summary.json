@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "54.48%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "99.88%",
     "time": 706,
-    "timeDay": 710,
-    "timeWeek": 667,
-    "timeMonth": 638,
+    "timeDay": 0,
+    "timeWeek": 610,
+    "timeMonth": 636,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2024-12-31": 0
+      "2025-01-01": 1,
+      "2024-12-31": 654
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "54.48%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "99.88%",
     "time": 430,
-    "timeDay": 268,
-    "timeWeek": 283,
-    "timeMonth": 241,
-    "timeYear": 324,
+    "timeDay": 0,
+    "timeWeek": 273,
+    "timeMonth": 240,
+    "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-12-31": 0
+      "2025-01-01": 1,
+      "2024-12-31": 654
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "54.48%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "99.88%",
     "time": 523,
-    "timeDay": 546,
-    "timeWeek": 490,
-    "timeMonth": 479,
+    "timeDay": 0,
+    "timeWeek": 478,
+    "timeMonth": 476,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-12-31": 0
+      "2025-01-01": 1,
+      "2024-12-31": 654
     }
   }
 ]
