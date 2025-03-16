@@ -1,7 +1,7 @@
 url: https://yago.cloud/api/health
-status: down
-code: 500
-responseTime: 22481
-lastUpdated: 2025-03-16T09:39:55.645Z
+status: up
+code: 200
+responseTime: 426
+lastUpdated: 2025-03-16T09:44:40.251Z
 startTime: 2022-05-19T14:49:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
