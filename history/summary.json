@@ -6,17 +6,16 @@
     "slug": "yago-page",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 646,
     "timeDay": 538,
     "timeWeek": 602,
-    "timeMonth": 804,
+    "timeMonth": 799,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2026-03-29": 9,
       "2026-02-10": 56,
       "2025-06-12": 34
     }
@@ -35,7 +34,7 @@
     "time": 258,
     "timeDay": 238,
     "timeWeek": 253,
-    "timeMonth": 289,
+    "timeMonth": 288,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2026-02-10": 76
@@ -48,17 +47,16 @@
     "slug": "yago-api",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 590,
     "timeDay": 617,
     "timeWeek": 532,
-    "timeMonth": 528,
+    "timeMonth": 530,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2026-03-29": 9,
       "2025-06-12": 34
     }
   }
