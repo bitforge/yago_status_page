@@ -4,19 +4,20 @@
     "url": "https://yago.cloud",
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 695,
-    "timeDay": 536,
-    "timeWeek": 754,
-    "timeMonth": 1164,
-    "timeYear": 716,
+    "time": 693,
+    "timeDay": 330,
+    "timeWeek": 675,
+    "timeMonth": 1130,
+    "timeYear": 715,
     "dailyMinutesDown": {
-      "2026-02-10": 56
+      "2026-02-10": 56,
+      "2026-08-15": 1
     }
   },
   {
@@ -24,19 +25,20 @@
     "url": "https://app.yago.cloud",
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 270,
-    "timeDay": 306,
-    "timeWeek": 356,
-    "timeMonth": 364,
+    "timeDay": 215,
+    "timeWeek": 327,
+    "timeMonth": 356,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2026-02-10": 76
+      "2026-02-10": 76,
+      "2026-08-15": 0
     }
   },
   {
@@ -44,17 +46,19 @@
     "url": "https://yago.cloud/api/health",
     "icon": "https://raw.githubusercontent.com/bitforge/yago_status_page/master/assets/yago-parrot-circle.svg",
     "slug": "yago-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 482,
-    "timeWeek": 624,
-    "timeMonth": 912,
-    "timeYear": 624,
-    "dailyMinutesDown": {}
+    "time": 586,
+    "timeDay": 303,
+    "timeWeek": 562,
+    "timeMonth": 887,
+    "timeYear": 622,
+    "dailyMinutesDown": {
+      "2026-08-15": 0
+    }
   }
 ]
